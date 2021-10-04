@@ -7,7 +7,7 @@ Aquí enlistamos una serie de respositorios donde pueden encontrar datos para an
 - [Gephi sample datasets](https://github.com/gephi/gephi/wiki/Datasets) 
 - [Network Repository](http://networkrepository.com/)
 ## Ecología
-- [Web of Life](https://moviegalaxies.com/) - redes de interacciones ecológicas
+- [Web of Life](http://www.web-of-life.es/map.php) - redes de interacciones ecológicas
 
 ## Entretenimiento
 - [Moviegalaxies](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/T4HBA3) - redes de personajes de películas ([página del proyecto](https://moviegalaxies.com/))
