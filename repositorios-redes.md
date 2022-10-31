@@ -15,3 +15,7 @@ Aquí enlistamos una serie de respositorios donde pueden encontrar datos para an
 
 ## Transporte
 - [OpenFlights](https://openflights.org/data.html) - base de datos de aeropuertos y rutas aereas
+
+## Matrices 
+- [SuiteSparse Matrix Collection](https://sparse.tamu.edu/) - repositorio de matrices
+- [Matrix Market](https://math.nist.gov/MatrixMarket/) - repositorio de matrices
