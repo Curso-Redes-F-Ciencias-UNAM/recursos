@@ -6,6 +6,7 @@ Aquí enlistamos una serie de respositorios donde pueden encontrar datos para an
 - [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
 - [Gephi sample datasets](https://github.com/gephi/gephi/wiki/Datasets) 
 - [Network Repository](http://networkrepository.com/)
+- [DRYAD](https://datadryad.org/stash)
 ## Ecología
 - [Web of Life](http://www.web-of-life.es/map.php) - redes de interacciones ecológicas
 
