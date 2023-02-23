@@ -3,9 +3,13 @@
 Aquí enlistamos una serie de respositorios donde pueden encontrar datos para analizar de redes, ya sean las redes formadas o bases de datos a partir de las cuales se pueden contruir redes.
 
 ## Varios
-- [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/)
-- [Gephi sample datasets](https://github.com/gephi/gephi/wiki/Datasets) 
+- [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/) 
+- [Gephi sample datasets](https://github.com/gephi/gephi/wiki/Datasets)
 - [Network Repository](http://networkrepository.com/)
+- [Tore Opsahl](https://toreopsahl.com/datasets/)
+- [UCIrvine Network Data Repository](https://networkdata.ics.uci.edu/)
+- [Pajek datasets](http://vlado.fmf.uni-lj.si/pub/networks/data/)
+- [re3data.org](https://www.re3data.org/) - repositorio de repositorios
 - [DRYAD](https://datadryad.org/stash)
 ## Ecología
 - [Web of Life](http://www.web-of-life.es/map.php) - redes de interacciones ecológicas
